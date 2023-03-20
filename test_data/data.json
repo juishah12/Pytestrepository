@@ -1,2 +1,4 @@
-
-"""To read using Json"""
+{
+  "browser": "edge",
+  "url": "https://opensource-demo.orangehrmlive.com/"
+}

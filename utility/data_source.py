@@ -19,3 +19,5 @@ test_add_valid_employee_data = [
 
 test_invalid_profile_upload_data = read_utils.get_sheet_as_list("../test_data/Website_login.xlsx",
                                                                 "Sheet1")
+
+test_invalid_login_data=read_utils.get_csv_as_list("../test_data/test_invalid_login_data.csv")
